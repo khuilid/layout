@@ -1,0 +1,59 @@
+body{margin: 0;}
+Header{
+    background-color: darkgoldenrod;
+    height: 100px;
+    text-align: center;
+    color: darkred;
+    }
+h1{margin: 0;}
+
+.banner{
+    background-color: darksalmon;
+    height: 400px;
+    text-align: center;
+    color: green;
+}
+
+
+.left{
+    background-color: hotpink;
+    width: 50%;
+    height: 300px;
+    text-align: center;
+    float: left;
+    }
+
+.right{
+    background-color: rgb(105, 133, 255);
+    width: 50%;
+    height: 300px;
+    text-align: center;
+    float: right ;
+}
+
+.longleft{
+    background-color: lightseagreen;
+   width: 70%;
+   height: 200px;
+   float: left;
+}
+
+.content{
+    overflow: hidden;
+}
+
+.shotrright{
+    background-color: mediumorchid;
+    width: 30%;
+    height: 200px;
+    float: right;
+}
+footer{
+    background-color: olive;
+    height: 100px;
+    text-align: center;
+    text-shadow: orchid;
+}
+.content2{
+    overflow: hidden;
+}
